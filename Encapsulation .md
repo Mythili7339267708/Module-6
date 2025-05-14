@@ -1,4 +1,4 @@
-# 🐍 Python OOP: Encapsulation with Private Members
+# Ex:6(b) 🐍 Python OOP: Encapsulation with Private Members
 
 ## 🎯 AIM
 
@@ -23,7 +23,17 @@ To implement **Encapsulation** in Python by defining a class `Rectangle` with **
 ---
 
 ## 💻 Program
+Developed By: V Mythili
+Reg No: 212223040123
+
+
+![image](https://github.com/user-attachments/assets/8f7196a4-d607-4698-8526-a5fcf34a3186)
+
 
 ## Output
 
+![image](https://github.com/user-attachments/assets/5e40ab99-3941-4bf1-b2d6-5cbe39ed3012)
+
 ## Result
+
+Thus, the program has been successfully executed.
