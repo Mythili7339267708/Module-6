@@ -1,4 +1,4 @@
-# 🐍 Python OOP: Operator Overloading (Less Than `<`)
+# Ex:6(d) 🐍 Python OOP: Operator Overloading (Less Than `<`)
 
 ## 🎯 AIM
 
@@ -25,7 +25,16 @@ To write a Python program that demonstrates **operator overloading** by overload
 ---
 
 ## 💻 Program
+Developed By: V Mythili
+Reg No: 212223040123
+
+![image](https://github.com/user-attachments/assets/cca09f97-010b-436e-bfff-9a5ba421b2f6)
 
 ## Output
 
+![image](https://github.com/user-attachments/assets/36fa6a6c-32ae-45a6-8ef6-3b9def043dca)
+
+
 ## Result
+
+Thus, the program has been successfully executed.
